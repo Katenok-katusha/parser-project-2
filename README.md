@@ -8,3 +8,4 @@ This is a parser program that allows you to collect book titles and prices from 
 4) Установите пакет bs4 в replit (или иной программе). Для этого пропишите в консоли следующее: pip install beautifulsoup4
 5) Программа готова к использованию
 6) Нажмите кнопку "Run"
+Автор: Новикова Екатерина
